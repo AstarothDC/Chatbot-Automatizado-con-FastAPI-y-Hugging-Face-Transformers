@@ -19,7 +19,7 @@ Este proyecto es una API REST desarrollada con **FastAPI** que utiliza un modelo
 
 ```bash
 git clone https://github.com/AstarothDC/Chatbot-Automatizado-con-FastAPI-y-Hugging-Face-Transformers
-cd chatbot-fastapi-huggingface
+cd Chatbot-Automatizado-con-FastAPI-y-Hugging-Face-Transformers
 ```
 
 ### 2. Crea un entorno virtual
